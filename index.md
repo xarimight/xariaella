@@ -21,4 +21,4 @@ Things I do during my freetime:
 
 ### Support or Contact
 
-Having trouble with someone? Report it to me!
+Having trouble with someone? Report it to an admin!
